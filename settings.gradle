@@ -1,0 +1,2 @@
+rootProject.name='RecyclerView Inset And Delete And Click'
+include ':app'
